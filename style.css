@@ -9,7 +9,7 @@
   border: 20px solid rgb(0, 0, 0);
   display: flex;
   flex-wrap: wrap;
-  align-content: center;
+  align-content: space-around;
 }
 
 .child1 {
