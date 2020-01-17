@@ -12,28 +12,25 @@ h1 {
   height: 100vh;
   border: 20px solid rgb(0, 0, 0);
   display: flex;
-  flex-wrap: wrap;
 }
 
 .child1 {
   width: 200px;
   height: 200px;
   background: rgb(39, 61, 134);
-  flex: 1 1 300px;
 }
 
 .child2 {
   width: 200px;
   height: 200px;
   background: rgb(172, 57, 53);
-  flex: 1 1 300px;
+  align-self: center;
 }
 
 .child3 {
   width: 200px;
   height: 200px;
   background: rgb(149, 43, 140);
-  flex: 1 1 300px;
 }
 
 .child4 {
