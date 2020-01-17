@@ -25,12 +25,14 @@ h1 {
   width: 200px;
   height: 200px;
   background: rgb(172, 57, 53);
+  flex-grow: 1;
 }
 
 .child3 {
   width: 200px;
   height: 200px;
   background: rgb(149, 43, 140);
+  flex-grow: 1;
 }
 
 .child4 {
