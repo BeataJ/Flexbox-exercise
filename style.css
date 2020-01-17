@@ -18,22 +18,26 @@ h1 {
   width: 200px;
   height: 200px;
   background: rgb(39, 61, 134);
+  order: 0;
 }
 
 .child2 {
   width: 200px;
   height: 200px;
   background: rgb(172, 57, 53);
+  order: 2;
 }
 
 .child3 {
   width: 200px;
   height: 200px;
   background: rgb(149, 43, 140);
+  order: 1;
 }
 
 .child4 {
   width: 200px;
   height: 200px;
   background: rgb(55, 149, 43);
+  order: 3;
 }
