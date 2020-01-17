@@ -4,11 +4,14 @@
   box-sizing: border-box;
 }
 
+h1 {
+  color: white;
+}
+
 .parent {
   height: 100vh;
   border: 20px solid rgb(0, 0, 0);
   display: flex;
-  flex-flow: column wrap;
 }
 
 .child1 {
